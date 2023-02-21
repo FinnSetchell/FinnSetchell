@@ -16,13 +16,11 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), blah blah
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+<br />
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
+<a img src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
+<a img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
