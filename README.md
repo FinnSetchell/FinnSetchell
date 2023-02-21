@@ -21,6 +21,11 @@ hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), blah blah
 <br />
 
 📈 my github stats
-
+<a href="https://github.com/FinnSetchell">
+  <img align="left" alt="FinnSetchell" width="22px" src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/FinnSetchell">
+  <img align="left" alt="FinnSetchell" width="22px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&show_icons=true&theme=gotham" />
+</a>
 <p img src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
 <p img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
