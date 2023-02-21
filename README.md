@@ -1,4 +1,4 @@
-### hey there 
+### Hey there, I'm Finn
 <a href="https://discord.gg/S5nffJbuvA">
   <img align="left" alt="Finn's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), blah blah... im a donkay?
+hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), I'm a student in the UK currently in my final year of A-levels. I enjoy taking up random coding projects, but most of my time is spent creating Minecraft mods for CurseForge.
 
 <br />
 
