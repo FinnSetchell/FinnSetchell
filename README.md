@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), blah blah
+hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), blah blah... im a donkay?
 
 <br />
 
