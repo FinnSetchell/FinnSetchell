@@ -15,6 +15,8 @@ hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), I'm a student in t
 <br />
 
 📈 my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&show_icons=true&theme=gotham" alt="FinnSetchell" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnSetchell&theme=gotham" alt="FinnSetchell" />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
