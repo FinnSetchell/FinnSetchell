@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), I'm a student in the UK currently in my final year of A-levels. I enjoy taking up random coding projects, but most of my time is spent creating Minecraft mods for CurseForge.
+hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), I'm currently taking a gap year so I touch some grass. I enjoy taking up random coding projects, but most of my time is spent creating Minecraft mods for CurseForge.
 
 <br />
 
