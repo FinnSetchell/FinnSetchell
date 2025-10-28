@@ -1,5 +1,5 @@
-## Hi, i'm [Finn Setchell](https://finndog-moogsmods.carrd.co/), 
-I enjoy taking up random coding projects, but most of my time is spent creating Minecraft mods for CurseForge.
+## Hi, i'm [Finn](https://finndog-moogsmods.carrd.co/), 
+I enjoy taking up random coding projects.
 
 
 [Discord](https://discord.gg/S5nffJbuvA)
